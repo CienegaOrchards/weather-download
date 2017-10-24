@@ -14,8 +14,10 @@
     "es6-promisify": "^5.0.0",
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
+    "progress": "^2.0.0",
     "request": "^2.81.0",
     "request-promise-native": "^1.0.4",
+    "throat": "^4.1.0",
     "twix": "^1.2.0"
   }
 }
