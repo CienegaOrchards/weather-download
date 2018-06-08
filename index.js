@@ -1,4 +1,4 @@
-const promisify = require('es6-promisify');
+const promisify = require('util').promisify;
 const _ = require('lodash');
 const throat = require('throat');
 const ProgressBar = require('progress');
